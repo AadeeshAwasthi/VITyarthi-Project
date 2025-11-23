@@ -28,7 +28,7 @@ pip install customtkinter matplotlib
 
 ### How to run the script 🚀
 
-1. Go to the directory. python-mini-project/Finance_Tracker
+1. Go to the directory. VITyarthi-Project/Finance_Tracker
 
 2. Run this command on Terminal.
 
