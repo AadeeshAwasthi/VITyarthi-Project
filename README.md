@@ -11,7 +11,7 @@ Utilizing **customtkinter** gives the application a visual edge over application
 <img width="792" alt="preview" src="https://github.com/otahina/python-mini-project/assets/108225969/eaa973ee-b9f8-4f1f-8367-066a5462d167">
 <img width="786" alt="pie_chart" src="https://github.com/otahina/python-mini-project/assets/108225969/8cb73919-106a-4a3d-acdb-20ae38f9fd07">
 
-## Prerequisites ⚙️
+## Prerequisites 
 
 Before you begin, ensure you have met the following requirements:
 
@@ -26,7 +26,7 @@ You can install these modules using pip:
 pip install customtkinter matplotlib
 ```
 
-### How to run the script 🚀
+### How to run the script 
 
 1. Go to the directory. VITyarthi-Project/Finance_Tracker
 
@@ -35,7 +35,7 @@ pip install customtkinter matplotlib
 
 
 
-## Moving Forward...🐾
+## Moving Forward...
 
 This application serves as an excellent starting point for beginners. Its simplicity allows for easy understanding, yet it provides ample room for enhancement!
 Beginner ➡️ Advanced
